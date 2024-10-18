@@ -1,6 +1,6 @@
 local AnimationsList = {}
 local animations = { --//Possibly make nested tables an array to improve performance
-    ["Slash"] = "1230183981"
+    ["Slash"] = "1230183981" --eg
 }
 
 for i,id in ipairs(animations) do

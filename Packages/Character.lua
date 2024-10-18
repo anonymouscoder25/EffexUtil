@@ -3,6 +3,8 @@ local Players = game:GetService("Players")
 local character_connections = {}
 local Character = {}
 
+--//Only for client-use
+
 function Character.init(died,spawned)
     Players.PlayerAdded:Connect(function(plr)
         self.new(plr,died,spawned)
