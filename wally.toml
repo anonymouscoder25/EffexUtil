@@ -1,8 +1,0 @@
-[package]
-name = "anonymouscoder25/effexutil"
-version = "0.1.3"
-registry = "https://github.com/UpliftGames/wally-index"
-realm = "shared"
-description = "Custom Roblox Utils"
-
-[dependencies]

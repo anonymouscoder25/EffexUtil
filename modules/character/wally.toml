@@ -1,0 +1,6 @@
+[package]
+name = "anonymouscoder25/character"
+version = "0.1.0"
+registry = "https://github.com/UpliftGames/wally-index"
+realm = "shared"
+description = "character module for detecting in StarterPlayerScripts"

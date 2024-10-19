@@ -7,7 +7,7 @@ local Character = {}
 
 function Character.init(died,spawned)
     Players.PlayerAdded:Connect(function(plr)
-        self.new(plr,died,spawned)
+        Character.new(plr,died,spawned)
     end)
 end
 

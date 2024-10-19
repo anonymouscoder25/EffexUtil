@@ -1,0 +1,6 @@
+[package]
+name = "anonymouscoder25/fake-tool"
+version = "0.1.0"
+registry = "https://github.com/UpliftGames/wally-index"
+realm = "shared"
+description = "Create tools that don't use an inventory"
