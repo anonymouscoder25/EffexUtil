@@ -1,6 +1,6 @@
 [package]
 name = "anonymouscoder25/animations-list"
-version = "0.1.0"
+version = "0.1.1"
 registry = "https://github.com/UpliftGames/wally-index"
 realm = "shared"
 description = "List your game's animations"
